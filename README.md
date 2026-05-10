@@ -5,7 +5,7 @@ This repository contains the documentation, research, and design files for our 3
 
 Team Members
 * Theekshana Dilhara (E/21/097)
-* Yugan Sachindra (E/21/099)
+* Yugan Shachindra (E/21/099)
 * Keshani Kawshalya (E/21/218)
 
 Instructors & Supervisors:
