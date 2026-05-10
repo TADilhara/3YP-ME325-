@@ -5,7 +5,7 @@ This repository contains the documentation, research, and design files for our 3
 
 Team Members
 * Theekshana Dilhara (E/21/097)
-* Yugan Shachindra (E/21/099)
+* Yugan Shachithra (E/21/099)
 * Keshani Kawshalya (E/21/218)
 
 Instructors & Supervisors:
@@ -15,7 +15,7 @@ Instructors & Supervisors:
 Project Log & Milestones
 
 1. Field Research & Site Visits
-* Conducted a site visit to the Tea Research Centre in Ratnapura.
+* Conducted a site visit to the Tea Research Institute Low country Regional Centre,Ratnapura.
 * Observed current harvesting methods and identified practical field constraints.
 
 2. Literature Review
