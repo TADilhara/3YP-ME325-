@@ -44,6 +44,12 @@
 * **IMG_9:** Static teeth machine.
 
 ### Videos
+* **VID_1:** Tea Shoot Morphology Explanation.
+* **VID_2:** Kawasaki NV60H machine.
+* **VID_3:** Old shears & TRI shear.
+* **VID_4:** TRI shear.
+* **VID_5:** Impeller machine.
+* **VID_6:** Static teeth machine.
 
   
 
