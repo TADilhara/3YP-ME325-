@@ -51,6 +51,8 @@
 * **VID_5:** Impeller machine.
 * **VID_6:** Static teeth machine.
 * **VID_7:** Single hand electric tea harvester.
+* **VID_8:** Another machine.
+* **VID_9:** Operation of Kawasaki NV60H Machine.
 
   
 
