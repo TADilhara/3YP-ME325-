@@ -50,6 +50,7 @@
 * **VID_4:** TRI shear.
 * **VID_5:** Impeller machine.
 * **VID_6:** Static teeth machine.
+* **VID_7:** Single hand electric tea harvester.
 
   
 
