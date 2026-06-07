@@ -1,0 +1,29 @@
+# Tea Bending Force Analysis
+
+This folder contains the bending force measurement data collected for different tea shoot stages during the field observation work. The main purpose of this analysis is to study the bending force variation of different tea shoot types and identify a suitable force range for pluckable shoots.
+
+The measured shoot categories include:
+
+* Pluckable shoots
+* Matured shoots
+* Arimbu shoots
+* Banji shoots
+* Not plucking / more matured shoots
+
+The Excel file contains the measured force values and a summary table showing the maximum and minimum bending force values for each shoot category. A scatter chart is also included to visually compare the force distribution using separate colored dots for each shoot type.
+
+## Bending Force Distribution Chart
+
+The scatter chart shows how the bending force changes with different tea shoot stages. Each dot represents one measured sample. Different colors and markers are used to identify each shoot type clearly.
+
+The red box in the chart shows the selected bending force range. This range is approximately **0.11 N to 0.32 N**. It was selected because most of the pluckable tea shoots are located inside this region.
+
+Based on the plotted data, about **100% of the pluckable shoots** fall within this selected force range. This means pluckable shoots have a common bending force range that can be used to separate them from other shoot types.
+
+Most **Arimbu shoots** are below the selected range because they are softer and immature. Therefore, they should not be harvested. Some **matured and more matured shoots** are above the selected range because they are stiffer and need higher bending force. These shoots are also not ideal for selective plucking.
+
+Overall, around **60% of the total measured samples** fall inside the selected force range. This shows that the selected range can be used as an initial reference for identifying suitable pluckable shoots.
+
+## Purpose of the Analysis
+
+This analysis helps to understand the stiffness difference between pluckable and non-pluckable tea shoots. The selected bending force range can support the development of a selective tea harvesting mechanism. 
